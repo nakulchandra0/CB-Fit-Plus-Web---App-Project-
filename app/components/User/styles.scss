@@ -1,0 +1,25 @@
+.image-input-field {
+  background-image: url(../../images/blank.png);
+}
+.ReactTable .rt-tbody .rt-td {
+  text-align: center;
+}
+.display-4 {
+  font-size: 3.5rem !important;
+  font-weight: 300;
+  line-height: 1.2;
+}
+.ReactTable .rt-thead.-header {
+  box-shadow: 0 2px 15px 0 rgba(0, 0, 0, 0.15);
+  height: 50px;
+}
+.ReactTable .rt-thead .rt-resizable-header-content {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-weight: bolder;
+  line-height: 40px;
+}
+.label.label-lg.label-inline {
+  width: auto;
+  line-height: 1px;
+}
